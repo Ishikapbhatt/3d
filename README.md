@@ -1,1 +1,0 @@
-# DockerImage_studentapp_threetier
